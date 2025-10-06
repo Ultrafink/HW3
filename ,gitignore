@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файлы окружения
+.env
+
+# Кэш и временные файлы
+.DS_Store
+*.tmp
